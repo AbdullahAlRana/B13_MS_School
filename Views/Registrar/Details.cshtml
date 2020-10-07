@@ -1,0 +1,52 @@
+﻿@model B13_MS_School.Models.Student
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/RegistrarLayout.cshtml";
+}
+<div>
+    <h4>Class</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ID)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ID)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.PresentAddress)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.PresentAddress)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.PreAddress)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.PreAddress)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.AdmissionDate)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.AdmissionDate)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.ID">Edit</a> |
+    <a asp-action="StudentList">Back to List</a>
+</div>

@@ -1,0 +1,28 @@
+﻿@model B13_MS_School.Models.List
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+<div>
+    <h4>Class</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Actorid)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Actorid)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-email="@Model.Email">Edit</a> |
+    <a asp-action="ViewRole">Back to List</a>
+</div>

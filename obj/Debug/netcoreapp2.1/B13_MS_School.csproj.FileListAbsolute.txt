@@ -1,0 +1,348 @@
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.deps.json
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.runtimeconfig.json
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.runtimeconfig.dev.json
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.dll
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.csprojAssemblyReference.cache
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.csproj.CoreCompileInputs.cache
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorAssemblyInfo.cache
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorAssemblyInfo.cs
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.AssemblyInfoInputs.cache
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.AssemblyInfo.cs
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.TagHelpers.input.cache
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.TagHelpers.output.cache
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorCoreGenerate.cache
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorTargetAssemblyInfo.cache
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorTargetAssemblyInfo.cs
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.pdb
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.Views.dll
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.Views.pdb
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Accountant\StudentFee.g.cshtml.cs
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Accountant.g.cshtml.cs
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Admin.g.cshtml.cs
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Faculty.g.cshtml.cs
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Registrar.g.cshtml.cs
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Student.g.cshtml.cs
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\StuList.g.cshtml.cs
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\AddStudent.g.cshtml.cs
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AccountantLayout.g.cshtml.cs
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AdminLayout.g.cshtml.cs
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\FacultyLayout.g.cshtml.cs
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\RegistrarLayout.g.cshtml.cs
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\StudentLayout.g.cshtml.cs
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.Views.pdb
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.dll
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.pdb
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.csproj.CopyComplete
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Student\Accountant.g.cshtml.cs
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Student\ViewRoutine.g.cshtml.cs
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\StudentList.g.cshtml.cs
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Accountant\AccountStatus.g.cshtml.cs
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\Details.g.cshtml.cs
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\Delete.g.cshtml.cs
+D:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\Edit.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.deps.json
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.runtimeconfig.json
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.runtimeconfig.dev.json
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.dll
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.pdb
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.Views.dll
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.Views.pdb
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.csprojAssemblyReference.cache
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.csproj.CoreCompileInputs.cache
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorAssemblyInfo.cache
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorAssemblyInfo.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.AssemblyInfoInputs.cache
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.AssemblyInfo.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.TagHelpers.input.cache
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.TagHelpers.output.cache
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorCoreGenerate.cache
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Accountant\AccountStatus.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Accountant\StudentFee.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Accountant.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Admin.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Registrar.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Student.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\StuList.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\AddStudent.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\Delete.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\Details.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\Edit.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\StudentList.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AccountantLayout.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AdminLayout.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\RegistrarLayout.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\StudentLayout.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Student\ViewRoutine.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorTargetAssemblyInfo.cache
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorTargetAssemblyInfo.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.Views.pdb
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.dll
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.pdb
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.csproj.CopyComplete
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Student\Account.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Student\Notice.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Student\Teachers.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Students.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\TeacherLayout.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Teacher.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddRole.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Delete.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Details.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.g.cshtml.cs
+F:\Projects\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ViewRole.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.deps.json
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.runtimeconfig.json
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.runtimeconfig.dev.json
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.dll
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.pdb
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.Views.dll
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.Views.pdb
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.csprojAssemblyReference.cache
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.csproj.CoreCompileInputs.cache
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorAssemblyInfo.cache
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorAssemblyInfo.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.AssemblyInfoInputs.cache
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.AssemblyInfo.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.TagHelpers.input.cache
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.TagHelpers.output.cache
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorCoreGenerate.cache
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Accountant\AccountStatus.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Accountant\StudentFee.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddRole.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Delete.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Details.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ViewRole.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Accountant.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Admin.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Registrar.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Student.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\StuList.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Teacher.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\AddStudent.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\Delete.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\Details.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\Edit.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\StudentList.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AccountantLayout.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AdminLayout.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\RegistrarLayout.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\StudentLayout.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\TeacherLayout.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Student\Account.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Student\Notice.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Student\Teachers.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Student\ViewRoutine.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Students.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorTargetAssemblyInfo.cache
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorTargetAssemblyInfo.cs
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.Views.pdb
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.dll
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.pdb
+G:\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.csproj.CopyComplete
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.deps.json
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.runtimeconfig.json
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.runtimeconfig.dev.json
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.dll
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.pdb
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.Views.dll
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.Views.pdb
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.csprojAssemblyReference.cache
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorAssemblyInfo.cache
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorAssemblyInfo.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.AssemblyInfoInputs.cache
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.AssemblyInfo.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.TagHelpers.input.cache
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.TagHelpers.output.cache
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorCoreGenerate.cache
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Accountant\AccountStatus.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Accountant\StudentFee.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddRole.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Delete.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Details.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ViewRole.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Accountant.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Admin.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Registrar.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Student.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\StuList.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Teacher.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\AddStudent.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\Delete.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\Details.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\Edit.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\StudentList.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AccountantLayout.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AdminLayout.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\RegistrarLayout.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\StudentLayout.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\TeacherLayout.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Student\Account.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Student\Notice.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Student\Teachers.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Student\ViewRoutine.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Students.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorTargetAssemblyInfo.cache
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorTargetAssemblyInfo.cs
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.Views.pdb
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.dll
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.pdb
+C:\Users\Abdul\Desktop\B13_Project v_final\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.csproj.CopyComplete
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.deps.json
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.runtimeconfig.json
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.runtimeconfig.dev.json
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.dll
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.pdb
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.Views.dll
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.Views.pdb
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.csprojAssemblyReference.cache
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.csproj.CoreCompileInputs.cache
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorAssemblyInfo.cache
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorAssemblyInfo.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.AssemblyInfoInputs.cache
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.AssemblyInfo.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.TagHelpers.input.cache
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.TagHelpers.output.cache
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorCoreGenerate.cache
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Accountant\AccountStatus.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Accountant\StudentFee.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddRole.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Delete.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Details.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ViewRole.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Accountant.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Admin.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Registrar.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Student.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\StuList.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Teacher.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\AddStudent.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\Delete.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\Details.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\Edit.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\StudentList.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AccountantLayout.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AdminLayout.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\RegistrarLayout.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\StudentLayout.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\TeacherLayout.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Student\Account.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Student\Notice.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Student\Teachers.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Student\ViewRoutine.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Students.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorTargetAssemblyInfo.cache
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorTargetAssemblyInfo.cs
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.Views.pdb
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.dll
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.pdb
+C:\Users\Abdul\Desktop\Group_B13\B13_MS_School\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.csproj.CopyComplete
+F:\Projects\.Net projects\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.deps.json
+F:\Projects\.Net projects\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.runtimeconfig.json
+F:\Projects\.Net projects\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.runtimeconfig.dev.json
+F:\Projects\.Net projects\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.dll
+F:\Projects\.Net projects\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.pdb
+F:\Projects\.Net projects\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.Views.dll
+F:\Projects\.Net projects\B13_MS_School\bin\Debug\netcoreapp2.1\B13_MS_School.Views.pdb
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.csprojAssemblyReference.cache
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.csproj.CoreCompileInputs.cache
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorAssemblyInfo.cache
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorAssemblyInfo.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.AssemblyInfoInputs.cache
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.AssemblyInfo.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.TagHelpers.input.cache
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.TagHelpers.output.cache
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorCoreGenerate.cache
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorTargetAssemblyInfo.cache
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.RazorTargetAssemblyInfo.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.Views.pdb
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.dll
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.pdb
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.csproj.CopyComplete
+F:\Projects\.Net projects\B13_MS_School\bin\Debug\netcoreapp2.1\appsettings.Development.json
+F:\Projects\.Net projects\B13_MS_School\bin\Debug\netcoreapp2.1\appsettings.json
+F:\Projects\.Net projects\B13_MS_School\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Accountant\AccountStatus.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Accountant\StudentFee.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Admin\AddRole.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Delete.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Details.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Admin\ViewRole.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Accountant.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Admin.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Registrar.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Student.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\StuList.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Home\Teacher.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\AddStudent.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\Delete.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\Details.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\Edit.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Registrar\StudentList.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AccountantLayout.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AdminLayout.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\RegistrarLayout.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\StudentLayout.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\TeacherLayout.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Student\Account.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Student\Notice.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Student\Teachers.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Student\ViewRoutine.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\Teacher\Students.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Projects\.Net projects\B13_MS_School\obj\Debug\netcoreapp2.1\B13_MS_School.genruntimeconfig.cache

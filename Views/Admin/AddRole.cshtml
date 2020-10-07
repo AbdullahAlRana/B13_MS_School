@@ -1,0 +1,40 @@
+﻿@{
+    Layout = "AdminLayout";
+}
+
+@model B13_MS_School.Models.List
+
+<div class="row">
+    <div class="col-md-4">
+        <div class="text-success"><center><h3>@ViewBag.Success</h3></center></div>
+        <form asp-controller="Admin" asp-action="AddRole" method="post">
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Email"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Password"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <p>1. Student</p>
+            <p>2. Admin</p>
+            <p>3. Teacher</p>
+            <p>4. Accountant</p>
+            <p>5. Registrar</p>
+            <div class="form-group">
+                <label asp-for="Actorid"></label>
+                <input asp-for="Actorid" class="form-control" />
+                <span asp-validation-for="Actorid" class="text-danger"></span>
+            </div>
+
+            <div>
+                <input type="submit" class="btn btn-primary btn-block" vlaue="Save" />
+            </div>
+
+        </form>
+    </div>
+</div>

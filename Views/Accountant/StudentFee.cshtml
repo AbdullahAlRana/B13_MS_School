@@ -1,0 +1,46 @@
+﻿@{
+    Layout = "AccountantLayout";
+}
+
+@model B13_MS_School.Models.Payment
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-controller="Accountant" asp-action="StudentFee" method="post">
+
+            <div class="text-success"><center><h3>@ViewBag.Success</h3></center></div>
+            <div asp-validation-summary="All" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="ID"></label>
+                <input asp-for="ID" class="form-control" />
+                <span asp-validation-for="ID" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="SID"></label>
+                <input asp-for="SID" class="form-control" />
+                <span asp-validation-for="SID" class="text-danger"></span>
+            </div><div class="form-group">
+                <label asp-for="ScID"></label>
+                <input asp-for="ScID" class="form-control" />
+                <span asp-validation-for="ScID" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Amount"></label>
+                <input asp-for="Amount" class="form-control" />
+                <span asp-validation-for="Amount" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="PaymentDate"></label>
+                <input asp-for="PaymentDate" class="form-control" />
+                <span asp-validation-for="PaymentDate" class="text-danger"></span>
+            </div>
+
+            <div>
+                <input type="submit" class="btn btn-primary btn-block" vlaue="Save" />
+            </div>
+
+        </form>
+    </div>

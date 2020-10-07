@@ -1,0 +1,30 @@
+﻿@model IEnumerable<B13_MS_School.ViewModels.ViewStudent>
+@{
+       Layout = "AccountantLayout";
+}
+
+<table class="table">
+    <tr>
+    <th>
+        ID
+    </th>
+        <th>
+        First Name
+    </th>
+        <th>
+        Last Name
+    </th>
+    <th>
+        Due
+    </th>
+    </tr>
+    @foreach(var item in Model)
+    {
+        <tr>
+            <td>@item.ID</td>
+            <td>@item.FirstName</td>
+            <td>@item.LastName</td>
+            <td>@item.Due</td>
+        </tr> 
+    }
+    </table>

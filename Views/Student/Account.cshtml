@@ -1,0 +1,22 @@
+﻿@model IEnumerable<B13_MS_School.ViewModels.ViewStudent>
+@{
+    Layout = "StudentLayout";
+}
+
+<table class="table">
+    <tr>
+        <th>
+            ID
+        </th>
+        <th>
+            Due
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ID</td>
+            <td>@item.Due</td>
+        </tr>
+    }
+</table>
